@@ -1,0 +1,7 @@
+<launch>
+  <node pkg="action_client_server_flying_photo_pkg" 
+  type="action_client_flying_photo" 
+  name="action_client_flying_photo_demo"  
+  output="screen">
+   </node>
+</launch>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<launch>
+
+  <include file="$(find action_client_server_flying_photo_pkg)/launch/action_server_flying_photo.launch" />
+  <include file="$(find action_client_server_flying_photo_pkg)/launch/action_client_flying_photo.launch" />
+
+</launch>
